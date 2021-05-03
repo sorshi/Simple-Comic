@@ -26,6 +26,12 @@
 				<string>com.milke.cbr-archive</string>
 				<string>public.archive.cbz</string>
 				<string>public.archive.cbr</string>
+				<string>com.pkware.zip-archive</string>
+				<string>com.macitbetter.rar-archive</string>
+				<string>public.rar-archive</string>
+				<string>com.bitcartel.comicbooklover.rar</string>
+				<string>com.milke.rar-archive</string>
+				<string>public.archive.rar</string>
 			</array>
 		</dict>
 	</array>
